@@ -10,19 +10,19 @@ body{
 #grid1-1{
     position: absolute;
     left: 0px;
-    top: 10px;
+    top: 0px;
 }
 
 #grid1-2{
     position: absolute;
     left: 200px;
-    top: 10px;
+    top: 0px;
 }
 
 #grid1-3{
     position: absolute;
     left: 400px;
-    top: 10px;
+    top: 0px;
 }
 
 #grid2-1{
